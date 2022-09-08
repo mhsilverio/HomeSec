@@ -4,4 +4,3 @@ create database homesec;
 use homesec;
 
 create table Usuario()
-create table Sensores()
