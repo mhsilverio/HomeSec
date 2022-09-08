@@ -1,5 +1,5 @@
 # HomeSec
-<img src="homesec.png" height=auto>
+<img src="images/homesec.png" height=auto>
 
 
 # Autores
