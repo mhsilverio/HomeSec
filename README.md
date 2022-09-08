@@ -1,4 +1,4 @@
-<align="center" img src="homesec.png" height=auto>
+<img src="homesec.png" height=auto align="center">
 <p> PUCPR - Engenharia de Software </p>
 
 
