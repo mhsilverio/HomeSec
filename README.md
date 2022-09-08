@@ -1,6 +1,6 @@
 # HomeSec
 PUCPR - Engenharia de Software
-<img src="homesec.png" width=100% height=auto>
+<img src="homesec.png" height=auto>
 
 # Autores
 <table>
