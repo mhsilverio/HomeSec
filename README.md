@@ -1,5 +1,4 @@
 <center> <img src="homesec.png" height=auto> </center>
-<p> PUCPR - Engenharia de Software </p>
 
 
 # Autores
