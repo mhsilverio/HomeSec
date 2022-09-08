@@ -1,5 +1,5 @@
-<img src="homesec.png" height=auto>
-<h1> PUCPR - Engenharia de Software </h1>
+<align="center" img src="homesec.png" height=auto>
+<p> PUCPR - Engenharia de Software </p>
 
 
 # Autores
