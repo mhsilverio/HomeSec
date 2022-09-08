@@ -1,6 +1,4 @@
-<center>
-	<img src="homesec.png" height=auto>
-</center>
+<img src="homesec.png" height=auto>
 
 
 # Autores
